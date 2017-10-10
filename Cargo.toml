@@ -1,0 +1,6 @@
+[package]
+name = "propeller-kit"
+version = "0.1.0"
+authors = ["fumiya-kubota <fumiya.kubota@glucose.jp>"]
+
+[dependencies]
